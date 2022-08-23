@@ -1,10 +1,13 @@
-### Hi there 👋, I'm Vivek Kumar
-#### TenaciousDevlpr
+# Hi there 👋, I'm Vivek Kumar
+### TenaciousDevlpr
 ![TenaciousDevlpr](https://github.com/vivekkumar83/vivekkumar83/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(6).png?raw=true)
 
 I'm from India. I like to solve real-world problems through coding. I'm curious to learn about Blockchain & WEB3.0
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Skills:
+* 💻 JavaScript, HTML, CSS, Bootstrap
+* 💻 c++, Oops
+* ⚛ React, MUI
 
 - 🔭 I’m currently working on Technical Content Analyst intern at GeeksforGeeks 
 
